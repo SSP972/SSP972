@@ -1,6 +1,6 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Quantitative Analyst</h3>
 <p img align="right" alt="Coding" width="400" src="https://hackernoon.imgix.net/images/yHG5sorapIgbG5ewVsx0i5lmB923-8djf3yhc.gif"    /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssp972&label=Profile%20views&color=0e75b6&style=flat" alt="ssp972" /> </p>
 

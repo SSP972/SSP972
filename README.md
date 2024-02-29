@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Volatility Prediction**
 
-- 👯 I’m looking to collaborate on **Phishing classifier detection**
+- 👯 I’m looking to collaborate on **ERCOT Node Combination and Constraint analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/_Shreyas_patil](https://www.datascienceportfol.io/_Shreyas_patil)
 

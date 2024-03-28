@@ -4,7 +4,7 @@
 <p img align="right" alt="Coding" width="400" src="https://hackernoon.imgix.net/images/yHG5sorapIgbG5ewVsx0i5lmB923-8djf3yhc.gif"    /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssp972&label=Profile%20views&color=0e75b6&style=flat" alt="ssp972" /> </p>
 
-- 🔭 I’m currently working on **Volatility Prediction**
+- 🔭 I’m currently working on **ERCOT market Constraints pattern prediction with Weather Pattern and load prediction**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/_Shreyas_patil](https://www.datascienceportfol.io/_Shreyas_patil)
 
